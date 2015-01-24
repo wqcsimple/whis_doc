@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link type="text/css" rel="stylesheet" href="http://localhost:8181/fayfox/css/jquery.fancybox-1.3.4.css" />
+<link type="text/css" rel="stylesheet" href="http://localhost:8181/fayfox/static/blog/css/style.css" />
+<script type="text/javascript" src="http://localhost:8181/fayfox/js/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="http://localhost:8181/fayfox/js/custom/system.min.js"></script>
+<script>
+system.base_url = 'http://localhost:8181/fayfox/';
+system.user_id = '0';
+</script>
+<script type="text/javascript" src="http://localhost:8181/fayfox/static/blog/js/menu.js"></script>
+<link type="image/x-icon" href="http://localhost:8181/fayfox/favicon.ico" rel="shortcut icon" />
+<meta content="test1229-3" name="keywords" />
+<meta content="" name="description" />
+<link rel="canonical" href="http://localhost:8181/fayfox/post/1010.html" />
+<!--[if lt IE 9]>
+	<script type="text/javascript" src="http://localhost:8181/fayfox/js/html5.js"></script>
+<![endif]-->
+<title>test1229-3 | fayfox</title>
+</head>
+<body>
+<div class="wrapper">
+	<div class="menu">
+		<div class="menu-in">
+			<div class="logo">
+				<a href="http://localhost:8181/fayfox/" title="Fayfox"></a>
+			</div>
+			<ul class="menu-links">
+											<li>
+					<a href="http://localhost:8181/fayfox/">首页</a>
+				</li>
+																<li class="menu-link-sel">
+						<a href="http://localhost:8181/fayfox/post/">博文</a>
+					</li>
+															<li>
+					<a href="http://localhost:8181/fayfox/work/">我的作品</a>
+				</li>
+															<li>
+					<a href="http://localhost:8181/fayfox/about.html">关于我</a>
+				</li>
+										</ul>
+		</div>
+	</div>
+	<div class="content-shade"></div>
+	<div class="content">
+		<div class="col-main">
+	<article class="post-item">
+		<header>
+			<div class="post-meta">
+				发表于<time>2014-12-28 09:27:17</time>
+			</div>
+			<h1>test1229-3</h1>
+		</header>
+		<div class="post-content">
+					</div>
+		<div class="post-tags">
+			<a class="post-type" title="博文" href="http://localhost:8181/fayfox/cat/1000.html"><span>#博文</span></a>						<div class="clear"></div>
+		</div>
+	</article>
+	<nav class="nav-single">
+				<span class="nav-previous">
+			<a rel="prev" href="http://localhost:8181/fayfox/post/1005.html">
+				<span class="meta-nav">←</span>
+				222			</a>
+		</span>
+						<span class="nav-next">
+			<a rel="next" href="http://localhost:8181/fayfox/post/1007.html">
+				444				<span class="meta-nav">→</span>
+			</a>
+		</span>
+			</nav>
+	<div class="leave-message">
+		<form id="leave-message-form">
+			<input type="hidden" name="target" value="1010" />
+			<input type="hidden" name="type" value="1" />
+			<textarea class="leave-message-input" name="content"></textarea>
+		</form>
+		<div class="leave-message-submit-container">
+			<a href="javascript:;" class="btn-1" id="leave-message-submit">发布</a>
+		</div>
+		<div class="message-list" id="post-message-list">
+			<ul>
+						</ul>
+		</div>
+	</div>
+</div>
+<div class="col-side">
+	<aside class="widget profile">
+	<div class="profile-avatar">
+		<img src="http://localhost:8181/fayfox/static/blog/images/avatar.jpg" width="190" height="190" alt="Fayfox" title="Fayfox" />
+	</div>
+	<div class="profile-info">
+		<div class="profile-nickname">
+			<a href="http://localhost:8181/fayfox/" title="Fayfox">Fayfox</a>
+		</div>
+		<div class="profile-age">
+			性别：
+			<span>男</span>
+			年龄：
+			<span>24岁</span>
+		</div>
+		<div class="profile-local">
+			现居：
+			<span>浙江</span>
+			<span>杭州</span>
+		</div>
+	</div>
+</aside>	<aside class="widget contact">
+	<div class="widget-title">联系方式</div>
+	<ul>
+		<li>E-mail:
+			<a href="mailto:admin@fayfox.com">
+				<span>admin@fayfox.com</span>
+			</a>
+		</li>
+		<li>QQ:
+			<a target="_blank" href="http://wpa.qq.com/msgrd?v=3&uin=369281831&site=qq&menu=yes">
+				<img border="0" src="http://wpa.qq.com/pa?p=2:369281831:51" alt="点击这里给我发消息" title="点击这里给我发消息"/>
+				<span>369281831</span>
+			</a>
+		</li>
+	</ul>
+</aside>	<aside class="widget recent-post">
+	<div class="widget-title">相关文章</div>
+	<ul>
+			<li>
+			<a href="http://localhost:8181/fayfox/post/1004.html">
+				111			</a>
+		</li>
+			<li>
+			<a href="http://localhost:8181/fayfox/post/1007.html">
+				444			</a>
+		</li>
+			<li>
+			<a href="http://localhost:8181/fayfox/post/1012.html">
+				test1229-52			</a>
+		</li>
+			<li>
+			<a href="http://localhost:8181/fayfox/post/1010.html">
+				test1229-3			</a>
+		</li>
+			<li>
+			<a href="http://localhost:8181/fayfox/post/1009.html">
+				test1229-2			</a>
+		</li>
+		</ul>
+</aside>	<div class="fixed-content">
+		<aside class="widget category">
+	<div class="widget-title">分类</div>
+	<ul><li><a href="http://localhost:8181/fayfox/cat/10004.html" title="1">1</a></li><li><a href="http://localhost:8181/fayfox/cat/10005.html" title="2">2</a></li><li><a href="http://localhost:8181/fayfox/cat/10006.html" title="1">1</a></li><li><a href="http://localhost:8181/fayfox/cat/10007.html" title="1-22">1-22</a></li></ul></aside>	</div>
+</div>
+<div class="clear"></div>
+
+<script type="text/javascript" src="http://localhost:8181/fayfox/js/jquery.sourcerer.js"></script>
+<script>
+$(function(){
+	$('.showCode').sourcerer('js html css php'); // Display all languages
+	$('.showCodeJS, .lang-js').sourcerer('js'); // Display JS only
+	$('.showCodeHTML').sourcerer('html'); // Display HTML only
+	$('.showCodePHP, .lang-php').sourcerer('php'); // Display PHP only
+	$('.showCodeCSS').sourcerer('css'); // Display CSS only
+
+	$("#leave-message-submit").click(function(){
+		$.ajax({
+			type: "POST",
+			url: system.url("message/create.html"),
+			data: $("#leave-message-form").serialize(),
+			dataType: 'json',
+			cache: false,
+			success: function(data){
+				$(".leave-message-input").val("");
+				var html = '<li>';
+				html += '	<div class="message-time">'+system.date(data.message.create_time)+'</div>';
+				html += '	<div class="message-content">'+system.encode(data.message.content)+'</div>';
+				html += '	<div class="clear"></div>';
+				html += '</li>';
+				$("#post-message-list ul").prepend(html);
+			}
+		});
+	});
+});
+</script>	</div>
+	<div class="footer">
+		<div class="footer-in">
+			<div style="padding-left:70px;"><a href="http://www.chidiaoni.com">吃掉你</a></div>
+			<div class="copyright">Copyright © 2012-2013 <a href="http://localhost:8181/fayfox/">fayfox.com</a></div>
+			<div class="beian">浙ICP备12036784号-1</div>
+		</div>
+	</div>
+		<div id="qrcode">
+		<h5>手机访问</h5>
+		<img src="http://localhost:8181/fayfox/file/qrcode/data/aHR0cDovL20uZmF5Zm94LmNvbS9wb3N0LzEwMTA%3D.html" />
+	</div>
+	</div>
+<script type="text/javascript" src="http://localhost:8181/fayfox/js/jquery.animate-shadow-min.js"></script>
+<script type="text/javascript" src="http://localhost:8181/fayfox/js/jquery.fancybox-1.3.4.pack.js"></script>
+<script type="text/javascript">
+$(function(){
+	$(".menu-links").menu();
+	
+	$(".post-list .post-list-item").live("mouseover", function(){
+		$(this).stop().animate({
+			"box-shadow" : "5px 5px 10px rgba(0, 0, 0, 0.25)",
+			"borderBottomRightRadius" : "30"
+		});
+	});
+	$(".post-list .post-list-item").live("mouseout", function(){
+		$(this).stop().animate({
+			"box-shadow": "2px 2px 10px #E7E5E6",
+			"borderBottomRightRadius" : "0"
+		});
+	});
+
+	//下拉后顶部固定
+	$(".fixed-content").each(function(){
+		var o = this;
+		var timeout = null;
+		var offset_top = $(o).offset().top;
+		$(o).css({
+			"width": $(o).width()
+		});
+		$(window).scroll(function(){
+			clearTimeout(timeout);
+			if($("body").get(0).getBoundingClientRect().top <= -(offset_top + 10)){
+				if(!$(o).next(".fix-content-succedaneum").length){
+					$(o).after('<div class="fix-content-succedaneum" style="width:'+$(o).width()+'px;height:'+$(o).height()+'px;"></div>');
+				}
+				if($.browser.msie && $.browser.version < 8){
+					timeout = setTimeout(function(){
+						$(o).css({
+							"position": "absolute",
+							"z-index": 1000,
+							"left": $(o).offset().left
+						})
+						.animate({
+							"top": - $("body").get(0).getBoundingClientRect().top
+						})
+						.addClass("col-fixed");
+					}, 200);
+				}else{
+					$(o).css({
+						"position": "fixed",
+						"top": 0,
+						"z-index": 1000,
+						"left": $(o).offset().left
+					})
+					.addClass("col-fixed");
+				}
+			}else{
+				$(o).css({
+					"position": "relative",
+					"top": 0,
+					"left": 0
+				})
+				.removeClass("col-fixed");
+				$(o).next(".fix-content-succedaneum").remove();
+			}
+		});
+	});
+	$(".work-file-item a").fancybox({
+		'transitionIn' : 'elastic',
+		'transitionOut' : 'elastic',
+		'type' : 'image',
+		'padding' : 0
+	});
+});
+</script>
+<script type="text/javascript" src="http://localhost:8181/fayfox/js/custom/analyst-min.js"></script>
+<script>_fa.init();</script>
+</body>
+</html>
